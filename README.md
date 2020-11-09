@@ -30,7 +30,8 @@ Digital pins: 8
   
 
 Motor Shield:
-  I2C interface
+  I2C interface: DCL/SDA pins have 4.7K pullups
   VM: Motors power (15V max)
   Current:  1.2A Avr, 3.2A peak max
   CW/CCW/short brake/stop motor control modes (Clock Wise, CounterClockWize)
+  
