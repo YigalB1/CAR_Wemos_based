@@ -35,3 +35,8 @@ Motor Shield:
   Current:  1.2A Avr, 3.2A peak max
   CW/CCW/short brake/stop motor control modes (Clock Wise, CounterClockWize)
   
+  Note: Motor shield
+  s of WEMOS often don't work out of the box. Need to reporgram firmware. Look here:
+  https://hackaday.io/project/18439-motor-shield-reprogramming?page=2#discussion-list
+  
+  
